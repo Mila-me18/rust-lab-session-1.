@@ -50,5 +50,5 @@ fn main() {
     println!("Add: {}", add(3, 7));
     println!("Greet: {}", greet("Rustacean"));
     println!("First word: {}", first_word("Rust is great"));
-    println!("Factorial(10): {}", factorial(276));
+    println!("Factorial(276): {}", factorial(276));
 }
